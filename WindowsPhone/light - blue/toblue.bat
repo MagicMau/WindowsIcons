@@ -1,0 +1,1 @@
+convert ( "%1" -alpha extract ) -background "#002776" -alpha shape PNG32:%1
